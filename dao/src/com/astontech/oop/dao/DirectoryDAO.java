@@ -10,9 +10,9 @@ public interface DirectoryDAO {
 
     public List<Directory> getDirectoryList ();
 
-    public Directory getLargestDirectory (int directoryId);
+    public Directory getLargestDirectory ();
 
-    public Directory getDirectoryMostFiles (int directoryId);
+    public Directory getDirectoryMostFiles ();
 
     //EXECUTE METHODS
     public int insertDirectory (Directory directory);

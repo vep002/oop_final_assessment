@@ -78,7 +78,7 @@ public class FileDAOImpl extends MySQL implements FileDAO {
     }
 
     @Override
-    public File getLargest(int fileId) {
+    public File getLargest() {
         Connect();
         File file = null;
         try {

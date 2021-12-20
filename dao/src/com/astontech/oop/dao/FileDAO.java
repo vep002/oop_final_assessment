@@ -10,9 +10,9 @@ public interface FileDAO {
 
     public List<File> getFileList ();
 
-    public File getByType (String fileType);
+    public File getByType (String filetype);
 
-    public File getLargest (int fileId);
+    public File getLargest ();
 
     //EXECUTE METHODS
     public int insertFile (File file);

@@ -20,6 +20,10 @@ public class Main {
 
     final static Logger logger = Logger.getLogger(Main.class);
 
+    final static DirectoryDAO directoryDAO = new DirectoryDAOImpl();
+
+    final static FileDAO fileDAO = new FileDAOImpl();
+
     public static void main(String[] args) {
         ConsoleApp();
 
@@ -130,9 +134,11 @@ public class Main {
 
         //Prompt the user to enter a starting directory:
         Scanner directoryPrompt = new Scanner(System.in);
-        System.out.println("Please enter a computer directory (enter 'none' to skip this step): ");
+        System.out.println("Please enter a computer directory: ");
         String userDefinedDirectory = directoryPrompt.nextLine();
         System.out.println(userDefinedDirectory);
+
+        GetFilesAndDirectories(new java.io.File(userDefinedDirectory));
 
         //Application traverses the directory and recursively collects file and directory information:
         /*
@@ -145,13 +151,8 @@ public class Main {
             vii.    Number of Files in Directory
             viii.   Directory Path
          */
-        switch (userDefinedDirectory) {
-            case "none" : DisplayMenu();
-            break;
-        }
-            GetFilesAndDirectories(new java.io.File(userDefinedDirectory));
 
-            //Display a menu with the following options:
+        //Display a menu with the following options:
         /*
             i.      Display directory with most files
             ii.     Display directory largest in size
@@ -160,10 +161,6 @@ public class Main {
             v.      Clear the db and start over
             vi.     Exit
          */
-
-    }
-
-    public static void DisplayMenu () {
         System.out.println(     "What would you like to do?:             \n" +
                 "=========================================\n" +
                 "i.     Display directory with most files\n" +
@@ -191,7 +188,14 @@ public class Main {
             case "Exit" : ;
                 break;
         }
+
+
+
     }
+
+//    public static void DisplayMenu () {
+//
+//    }
 
     public static void GetFilesAndDirectories (java.io.File dir) {
         Helper helper = new Helper();
@@ -231,7 +235,6 @@ public class Main {
                     file1.setFileType(helper.getExtensionByStringHandling(file.getAbsolutePath()));
                     file1.setFileSize(helper.bytesToMegabytes(file.length()));
 //                    file1.setDirectoryId();
-                    FileDAO fileDAO = new FileDAOImpl();
                     int id = fileDAO.insertFile(file1);
                     logger.info("New file inserted. ID = " + id);
             }
@@ -240,40 +243,31 @@ public class Main {
 
     public static void DisplayDirectoryMostFiles() {
         logger.info("This will eventually display the directory with the most files");
-        DirectoryDAO directoryDAO = new DirectoryDAOImpl();
-        List<Email> emailList = emailDAO.getEmailList();
-
-
-        //region PROMPT USER
-        Scanner reader = new Scanner(System.in);
-        System.out.println("Please select an Email from list: ");
-        String emailId = reader.nextLine();
-
-        //endregion
-
-        //region GET USER DETAILS
-        Email emailDetail = emailDAO.getEmailById(Integer.parseInt(emailId));
-
-        System.out.println(emailDetail);
-
-        System.out.println("----Email Details------");
-        System.out.println("Email ID: " + emailDetail.getEmailId());
-        System.out.println("Email Address: " + emailDetail.getEmailAddress());
+        Directory mostFilesDir = directoryDAO.getDirectoryMostFiles();
+        System.out.println(mostFilesDir.getDirectoryName());
+//        DisplayMenu();
     }
 
     public static void DisplayLargestDirectory() {
         logger.info("This will eventually display the largest directory");
-        DisplayMenu();
+        Directory largestDir = directoryDAO.getLargestDirectory();
+        System.out.println("Largest directory: " + largestDir.getDirectoryName());
+
+//        DisplayMenu();
     }
 
     public static void DisplayLargestFiles() {
         logger.info("This will eventually display the five largest files");
-        DisplayMenu();
+        File largestFile = fileDAO.getLargest();
+        System.out.println("Largest file: " + largestFile.getFileName());
+//        DisplayMenu();
     }
 
     public static void DisplayFilesOfType() {
         logger.info("This will eventually display all files of a certain type");
-        DisplayMenu();
+        System.out.println("Enter a file type: ");
+
+//        DisplayMenu();
     }
 
     public static void ClearDB () {

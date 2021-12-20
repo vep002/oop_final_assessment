@@ -5236,3 +5236,2080 @@
 2021-12-10 18:32:08 INFO  MySQL:33 - My SQL Driver registered
 2021-12-10 18:32:08 INFO  MySQL:41 - Successfully connected to MySQL database
 2021-12-10 18:32:08 INFO  Main:236 - New file inserted. ID = 256
+2021-12-17 15:35:49 INFO  MySQL:33 - My SQL Driver registered
+2021-12-17 15:35:49 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-17 15:35:49 INFO  Main:282 - File Deleted Successfully
+2021-12-17 15:35:49 INFO  MySQL:33 - My SQL Driver registered
+2021-12-17 15:35:49 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-17 15:35:49 INFO  Main:288 - Directory Deleted Successfully
+2021-12-20 12:44:46 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:44:47 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:44:47 INFO  Main:281 - Delete Failed
+2021-12-20 12:44:47 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:44:47 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:44:47 INFO  Main:287 - Delete Failed
+2021-12-20 12:56:01 INFO  Main:202 - directory name: out
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 214
+2021-12-20 12:56:01 INFO  Main:202 - directory name: production
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 215
+2021-12-20 12:56:01 INFO  Main:202 - directory name: console
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 216
+2021-12-20 12:56:01 INFO  Main:202 - directory name: com
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 217
+2021-12-20 12:56:01 INFO  Main:202 - directory name: astontech
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 218
+2021-12-20 12:56:01 INFO  Main:202 - directory name: oop
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 219
+2021-12-20 12:56:01 INFO  Main:202 - directory name: console
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 ERROR MySQL:124 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'Path' at row 1
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 0
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:236 - New file inserted. ID = 257
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:236 - New file inserted. ID = 258
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:236 - New file inserted. ID = 259
+2021-12-20 12:56:01 INFO  Main:202 - directory name: objects
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 220
+2021-12-20 12:56:01 INFO  Main:202 - directory name: com
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 221
+2021-12-20 12:56:01 INFO  Main:202 - directory name: astontech
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 222
+2021-12-20 12:56:01 INFO  Main:202 - directory name: oop
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 223
+2021-12-20 12:56:01 INFO  Main:202 - directory name: objects
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 ERROR MySQL:124 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'Path' at row 1
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 0
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:236 - New file inserted. ID = 260
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:236 - New file inserted. ID = 261
+2021-12-20 12:56:01 INFO  Main:202 - directory name: dao
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 224
+2021-12-20 12:56:01 INFO  Main:202 - directory name: com
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 225
+2021-12-20 12:56:01 INFO  Main:202 - directory name: astontech
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 226
+2021-12-20 12:56:01 INFO  Main:202 - directory name: oop
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 227
+2021-12-20 12:56:01 INFO  Main:202 - directory name: dao
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:218 - New directory inserted. ID = 228
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:236 - New file inserted. ID = 262
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:01 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:01 INFO  Main:236 - New file inserted. ID = 263
+2021-12-20 12:56:01 INFO  Main:202 - directory name: mysql
+2021-12-20 12:56:01 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 229
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 264
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 265
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 266
+2021-12-20 12:56:02 INFO  Main:202 - directory name: console
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 230
+2021-12-20 12:56:02 INFO  Main:202 - directory name: src
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 231
+2021-12-20 12:56:02 INFO  Main:202 - directory name: com
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 232
+2021-12-20 12:56:02 INFO  Main:202 - directory name: astontech
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 233
+2021-12-20 12:56:02 INFO  Main:202 - directory name: oop
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 234
+2021-12-20 12:56:02 INFO  Main:202 - directory name: console
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 235
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 267
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 268
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 269
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 270
+2021-12-20 12:56:02 INFO  Main:202 - directory name: .idea
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 236
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 271
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 272
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 273
+2021-12-20 12:56:02 INFO  Main:202 - directory name: libraries
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 237
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 274
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 275
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 276
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 277
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 278
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 279
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 280
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 281
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 282
+2021-12-20 12:56:02 INFO  Main:202 - directory name: dataSources
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 238
+2021-12-20 12:56:02 INFO  Main:202 - directory name: 7309cab3-f129-4c64-aff9-0a5083770a07
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 ERROR MySQL:124 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'Path' at row 1
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 0
+2021-12-20 12:56:02 INFO  Main:202 - directory name: storage_v2
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 ERROR MySQL:124 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'Path' at row 1
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 0
+2021-12-20 12:56:02 INFO  Main:202 - directory name: _src_
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 ERROR MySQL:124 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'Path' at row 1
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 0
+2021-12-20 12:56:02 INFO  Main:202 - directory name: schema
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 ERROR MySQL:124 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'Path' at row 1
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 0
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 283
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 284
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 285
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 286
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 287
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 288
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 289
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 290
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 291
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 292
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 293
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 294
+2021-12-20 12:56:02 INFO  Main:202 - directory name: objects
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 239
+2021-12-20 12:56:02 INFO  Main:202 - directory name: src
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 240
+2021-12-20 12:56:02 INFO  Main:202 - directory name: com
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 241
+2021-12-20 12:56:02 INFO  Main:202 - directory name: astontech
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 242
+2021-12-20 12:56:02 INFO  Main:202 - directory name: oop
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 243
+2021-12-20 12:56:02 INFO  Main:202 - directory name: objects
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:218 - New directory inserted. ID = 244
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 295
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 296
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:02 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:02 INFO  Main:236 - New file inserted. ID = 297
+2021-12-20 12:56:02 INFO  Main:202 - directory name: .git
+2021-12-20 12:56:02 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 245
+2021-12-20 12:56:03 INFO  Main:202 - directory name: refs
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 246
+2021-12-20 12:56:03 INFO  Main:202 - directory name: remotes
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 247
+2021-12-20 12:56:03 INFO  Main:202 - directory name: origin
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 248
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 298
+2021-12-20 12:56:03 INFO  Main:202 - directory name: tags
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 249
+2021-12-20 12:56:03 INFO  Main:202 - directory name: heads
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 250
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 299
+2021-12-20 12:56:03 INFO  Main:202 - directory name: branches
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 251
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 300
+2021-12-20 12:56:03 INFO  Main:202 - directory name: logs
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 252
+2021-12-20 12:56:03 INFO  Main:202 - directory name: refs
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 253
+2021-12-20 12:56:03 INFO  Main:202 - directory name: remotes
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 254
+2021-12-20 12:56:03 INFO  Main:202 - directory name: origin
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 255
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 301
+2021-12-20 12:56:03 INFO  Main:202 - directory name: heads
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 256
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 302
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 303
+2021-12-20 12:56:03 INFO  Main:202 - directory name: info
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 257
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 304
+2021-12-20 12:56:03 INFO  Main:202 - directory name: objects
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 258
+2021-12-20 12:56:03 INFO  Main:202 - directory name: e5
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 259
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: 08
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 260
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: 79
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 261
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: bf
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 262
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: d1
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 263
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: e7
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 264
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: ad
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 265
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: 78
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 266
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: ea
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 267
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: f1
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 268
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: 26
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 269
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: da
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 270
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: cc
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 271
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: 76
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 272
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: 0b
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 273
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: 3f
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 274
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: 38
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 275
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: 67
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 276
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: c8
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 277
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: e3
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 278
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: 10
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 279
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: cf
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 280
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: aa
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 281
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: f7
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 INFO  Main:218 - New directory inserted. ID = 282
+2021-12-20 12:56:03 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:03 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:03 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:03 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:03 INFO  Main:202 - directory name: 31
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 283
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: c5
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 284
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 8f
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 285
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 13
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 286
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 06
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 287
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 4d
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 288
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: info
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 289
+2021-12-20 12:56:04 INFO  Main:202 - directory name: fe
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 290
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: e4
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 291
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: cd
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 292
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 54
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 293
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: ec
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 294
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: d4
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 295
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: e2
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 296
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 1f
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 297
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 0a
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 298
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 2f
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 299
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 73
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 300
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 ERROR MySQL:38 - Connection Failed!java.sql.SQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 97
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 ERROR MySQL:38 - Connection Failed!java.sql.SQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 301
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 ERROR MySQL:38 - Connection Failed!java.sql.SQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 ERROR MySQL:38 - Connection Failed!java.sql.SQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 ERROR MySQL:38 - Connection Failed!java.sql.SQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: a7
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 ERROR MySQL:38 - Connection Failed!java.sql.SQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 302
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: d8
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 303
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: db
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 304
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: b4
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 305
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 0f
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 306
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 6b
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 307
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: dc
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 308
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: e9
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 309
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 5b
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 310
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 8b
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 311
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 42
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 312
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 70
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 313
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 07
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 314
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 3c
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 315
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: pack
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 316
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 4f
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 317
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 95
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 318
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: ac
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 319
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:04 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:04 INFO  Main:202 - directory name: 11
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:04 INFO  Main:218 - New directory inserted. ID = 320
+2021-12-20 12:56:04 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:04 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:05 INFO  Main:202 - directory name: 21
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:218 - New directory inserted. ID = 321
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 0
+2021-12-20 12:56:05 INFO  Main:202 - directory name: hooks
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:218 - New directory inserted. ID = 322
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 305
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 306
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 307
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 308
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 309
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 310
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 311
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 312
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 313
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 314
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 315
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 316
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 317
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 318
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 319
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 320
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 321
+2021-12-20 12:56:05 INFO  Main:202 - directory name: src
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:218 - New directory inserted. ID = 323
+2021-12-20 12:56:05 INFO  Main:202 - directory name: com
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:218 - New directory inserted. ID = 324
+2021-12-20 12:56:05 INFO  Main:202 - directory name: astontech
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:218 - New directory inserted. ID = 325
+2021-12-20 12:56:05 INFO  Main:202 - directory name: dao
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:218 - New directory inserted. ID = 326
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 322
+2021-12-20 12:56:05 INFO  Main:202 - directory name: src
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:218 - New directory inserted. ID = 327
+2021-12-20 12:56:05 INFO  Main:202 - directory name: com
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:218 - New directory inserted. ID = 328
+2021-12-20 12:56:05 INFO  Main:202 - directory name: astontech
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:218 - New directory inserted. ID = 329
+2021-12-20 12:56:05 INFO  Main:202 - directory name: oop
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:218 - New directory inserted. ID = 330
+2021-12-20 12:56:05 INFO  Main:202 - directory name: dao
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:218 - New directory inserted. ID = 331
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 323
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 324
+2021-12-20 12:56:05 INFO  Main:202 - directory name: mysql
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:218 - New directory inserted. ID = 332
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 325
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 326
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 327
+2021-12-20 12:56:05 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:05 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:05 INFO  Main:236 - New file inserted. ID = 328
+2021-12-20 12:56:38 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:38 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:38 INFO  Main:282 - File Deleted Successfully
+2021-12-20 12:56:38 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 12:56:38 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 12:56:38 INFO  Main:288 - Directory Deleted Successfully
+2021-12-20 13:39:52 INFO  Main:206 - directory name: out
+2021-12-20 13:39:52 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:52 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:52 INFO  Main:222 - New directory inserted. ID = 333
+2021-12-20 13:39:52 INFO  Main:206 - directory name: production
+2021-12-20 13:39:52 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:52 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:52 INFO  Main:222 - New directory inserted. ID = 334
+2021-12-20 13:39:52 INFO  Main:206 - directory name: console
+2021-12-20 13:39:52 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:52 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:52 INFO  Main:222 - New directory inserted. ID = 335
+2021-12-20 13:39:52 INFO  Main:206 - directory name: com
+2021-12-20 13:39:52 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:52 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:52 INFO  Main:222 - New directory inserted. ID = 336
+2021-12-20 13:39:52 INFO  Main:206 - directory name: astontech
+2021-12-20 13:39:52 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:52 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:52 INFO  Main:222 - New directory inserted. ID = 337
+2021-12-20 13:39:52 INFO  Main:206 - directory name: oop
+2021-12-20 13:39:52 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:52 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:52 INFO  Main:222 - New directory inserted. ID = 338
+2021-12-20 13:39:52 INFO  Main:206 - directory name: console
+2021-12-20 13:39:52 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:52 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:52 ERROR MySQL:124 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'Path' at row 1
+2021-12-20 13:39:52 INFO  Main:222 - New directory inserted. ID = 0
+2021-12-20 13:39:52 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:52 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:52 INFO  Main:239 - New file inserted. ID = 329
+2021-12-20 13:39:52 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:52 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:52 INFO  Main:239 - New file inserted. ID = 330
+2021-12-20 13:39:52 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:52 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:52 INFO  Main:239 - New file inserted. ID = 331
+2021-12-20 13:39:52 INFO  Main:206 - directory name: objects
+2021-12-20 13:39:52 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:52 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:52 INFO  Main:222 - New directory inserted. ID = 339
+2021-12-20 13:39:52 INFO  Main:206 - directory name: com
+2021-12-20 13:39:52 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:52 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 340
+2021-12-20 13:39:53 INFO  Main:206 - directory name: astontech
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 341
+2021-12-20 13:39:53 INFO  Main:206 - directory name: oop
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 342
+2021-12-20 13:39:53 INFO  Main:206 - directory name: objects
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 ERROR MySQL:124 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'Path' at row 1
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 0
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 332
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 333
+2021-12-20 13:39:53 INFO  Main:206 - directory name: dao
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 343
+2021-12-20 13:39:53 INFO  Main:206 - directory name: com
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 344
+2021-12-20 13:39:53 INFO  Main:206 - directory name: astontech
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 345
+2021-12-20 13:39:53 INFO  Main:206 - directory name: oop
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 346
+2021-12-20 13:39:53 INFO  Main:206 - directory name: dao
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 347
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 334
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 335
+2021-12-20 13:39:53 INFO  Main:206 - directory name: mysql
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 348
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 336
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 337
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 338
+2021-12-20 13:39:53 INFO  Main:206 - directory name: console
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 349
+2021-12-20 13:39:53 INFO  Main:206 - directory name: src
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 350
+2021-12-20 13:39:53 INFO  Main:206 - directory name: com
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 351
+2021-12-20 13:39:53 INFO  Main:206 - directory name: astontech
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 352
+2021-12-20 13:39:53 INFO  Main:206 - directory name: oop
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 353
+2021-12-20 13:39:53 INFO  Main:206 - directory name: console
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 354
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 339
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 340
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 341
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 342
+2021-12-20 13:39:53 INFO  Main:206 - directory name: .idea
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 355
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 343
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 344
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 345
+2021-12-20 13:39:53 INFO  Main:206 - directory name: libraries
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 356
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 346
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 347
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 348
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 349
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 350
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 351
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 352
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 353
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 354
+2021-12-20 13:39:53 INFO  Main:206 - directory name: dataSources
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 357
+2021-12-20 13:39:53 INFO  Main:206 - directory name: 7309cab3-f129-4c64-aff9-0a5083770a07
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 ERROR MySQL:124 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'Path' at row 1
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 0
+2021-12-20 13:39:53 INFO  Main:206 - directory name: storage_v2
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 ERROR MySQL:124 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'Path' at row 1
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 0
+2021-12-20 13:39:53 INFO  Main:206 - directory name: _src_
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 ERROR MySQL:124 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'Path' at row 1
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 0
+2021-12-20 13:39:53 INFO  Main:206 - directory name: schema
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 ERROR MySQL:124 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'Path' at row 1
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 0
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 355
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 356
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 357
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 358
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 359
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 360
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 361
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 362
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 363
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 364
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 365
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:239 - New file inserted. ID = 366
+2021-12-20 13:39:53 INFO  Main:206 - directory name: objects
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 358
+2021-12-20 13:39:53 INFO  Main:206 - directory name: src
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 359
+2021-12-20 13:39:53 INFO  Main:206 - directory name: com
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 360
+2021-12-20 13:39:53 INFO  Main:206 - directory name: astontech
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 361
+2021-12-20 13:39:53 INFO  Main:206 - directory name: oop
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:53 INFO  Main:222 - New directory inserted. ID = 362
+2021-12-20 13:39:53 INFO  Main:206 - directory name: objects
+2021-12-20 13:39:53 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:53 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 363
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 367
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 368
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 369
+2021-12-20 13:39:54 INFO  Main:206 - directory name: .git
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 364
+2021-12-20 13:39:54 INFO  Main:206 - directory name: refs
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 365
+2021-12-20 13:39:54 INFO  Main:206 - directory name: remotes
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 366
+2021-12-20 13:39:54 INFO  Main:206 - directory name: origin
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 367
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 370
+2021-12-20 13:39:54 INFO  Main:206 - directory name: tags
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 368
+2021-12-20 13:39:54 INFO  Main:206 - directory name: heads
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 369
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 371
+2021-12-20 13:39:54 INFO  Main:206 - directory name: branches
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 370
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 372
+2021-12-20 13:39:54 INFO  Main:206 - directory name: logs
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 371
+2021-12-20 13:39:54 INFO  Main:206 - directory name: refs
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 372
+2021-12-20 13:39:54 INFO  Main:206 - directory name: remotes
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 373
+2021-12-20 13:39:54 INFO  Main:206 - directory name: origin
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 374
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 373
+2021-12-20 13:39:54 INFO  Main:206 - directory name: heads
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 375
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 374
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 375
+2021-12-20 13:39:54 INFO  Main:206 - directory name: info
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 376
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 376
+2021-12-20 13:39:54 INFO  Main:206 - directory name: objects
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 377
+2021-12-20 13:39:54 INFO  Main:206 - directory name: e5
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 378
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: 08
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 379
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: 79
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 380
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: bf
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 381
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: d1
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 382
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: e7
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 383
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: ad
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 384
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: 78
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 385
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: ea
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 386
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: f1
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 387
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: 26
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 388
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: da
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 389
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: cc
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 390
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: 76
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 391
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: 0b
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 392
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: 3f
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 393
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: 38
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 394
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: 67
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 395
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: c8
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 396
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: e3
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 397
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: 10
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 INFO  Main:222 - New directory inserted. ID = 398
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:54 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:54 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:54 INFO  Main:206 - directory name: cf
+2021-12-20 13:39:54 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:54 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 399
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: aa
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 400
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: f7
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 401
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 31
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 402
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: c5
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 403
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 8f
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 404
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 13
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 405
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 06
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 406
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 4d
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 407
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: info
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 408
+2021-12-20 13:39:55 INFO  Main:206 - directory name: fe
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 409
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: e4
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 410
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: cd
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 411
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 54
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 412
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: ec
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 413
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: d4
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 414
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: e2
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 415
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 1f
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 416
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 0a
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 417
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 2f
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 418
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 73
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 419
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 ERROR MySQL:38 - Connection Failed!java.sql.SQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 97
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 ERROR MySQL:38 - Connection Failed!java.sql.SQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 420
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 ERROR MySQL:38 - Connection Failed!java.sql.SQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 ERROR MySQL:38 - Connection Failed!java.sql.SQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 ERROR MySQL:38 - Connection Failed!java.sql.SQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: a7
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 ERROR MySQL:38 - Connection Failed!java.sql.SQLNonTransientConnectionException: Data source rejected establishment of connection,  message from server: "Too many connections"
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 421
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: d8
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 422
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: db
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 423
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: b4
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 424
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 0f
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 425
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 6b
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 426
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: dc
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 427
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: e9
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 428
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 5b
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 429
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 8b
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 430
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 42
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 431
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 70
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 432
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 07
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 433
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 3c
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 434
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: pack
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 435
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 4f
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 436
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 95
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 437
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: ac
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 438
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 11
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 439
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: 21
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 440
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 ERROR MySQL:123 - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'FileType' at row 1
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 0
+2021-12-20 13:39:55 INFO  Main:206 - directory name: hooks
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:222 - New directory inserted. ID = 441
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 377
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 378
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 379
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 380
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 381
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 382
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:55 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:55 INFO  Main:239 - New file inserted. ID = 383
+2021-12-20 13:39:55 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 384
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 385
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 386
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 387
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 388
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 389
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 390
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 391
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 392
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 393
+2021-12-20 13:39:56 INFO  Main:206 - directory name: src
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:222 - New directory inserted. ID = 442
+2021-12-20 13:39:56 INFO  Main:206 - directory name: com
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:222 - New directory inserted. ID = 443
+2021-12-20 13:39:56 INFO  Main:206 - directory name: astontech
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:222 - New directory inserted. ID = 444
+2021-12-20 13:39:56 INFO  Main:206 - directory name: dao
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:222 - New directory inserted. ID = 445
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 394
+2021-12-20 13:39:56 INFO  Main:206 - directory name: src
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:222 - New directory inserted. ID = 446
+2021-12-20 13:39:56 INFO  Main:206 - directory name: com
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:222 - New directory inserted. ID = 447
+2021-12-20 13:39:56 INFO  Main:206 - directory name: astontech
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:222 - New directory inserted. ID = 448
+2021-12-20 13:39:56 INFO  Main:206 - directory name: oop
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:222 - New directory inserted. ID = 449
+2021-12-20 13:39:56 INFO  Main:206 - directory name: dao
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:222 - New directory inserted. ID = 450
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 395
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 396
+2021-12-20 13:39:56 INFO  Main:206 - directory name: mysql
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:222 - New directory inserted. ID = 451
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 397
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 398
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 399
+2021-12-20 13:39:56 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:39:56 INFO  MySQL:41 - Successfully connected to MySQL database
+2021-12-20 13:39:56 INFO  Main:239 - New file inserted. ID = 400
+2021-12-20 13:40:08 INFO  Main:268 - This will eventually display the largest directory
+2021-12-20 13:40:08 INFO  MySQL:33 - My SQL Driver registered
+2021-12-20 13:40:08 INFO  MySQL:41 - Successfully connected to MySQL database

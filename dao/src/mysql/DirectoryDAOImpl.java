@@ -58,7 +58,7 @@ public class DirectoryDAOImpl extends MySQL implements DirectoryDAO {
     }
 
     @Override
-    public Directory getLargestDirectory (int directoryId) {
+    public Directory getLargestDirectory () {
         Connect();
         Directory directory = null;
         try {
@@ -79,7 +79,7 @@ public class DirectoryDAOImpl extends MySQL implements DirectoryDAO {
     }
 
     @Override
-    public Directory getDirectoryMostFiles(int directoryId) {
+    public Directory getDirectoryMostFiles() {
         Connect();
         Directory directory = null;
         try {
